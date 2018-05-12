@@ -1,0 +1,28 @@
+_repo: The-Girl-Wanted_26683
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26683-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Waterman, Nixon
+    alias: Martin, Peter
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '32171'
+    url: http://www.gutenberg.org/2009/agents/32171
+description: ''
+gutenberg_issued: '2008-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Conduct of life'
+- !lcsh 'Girls'
+title: 'The Girl Wanted:  A Book of Friendly Thoughts'
+url: http://www.gutenberg.org/ebooks/26683
